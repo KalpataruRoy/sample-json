@@ -16,9 +16,9 @@
 		"chartSeries": [
 			["Task", "Transaction"],
 			["Delivered", 15],
-			["In Process", 20],
-			["Approved", 8],
-			["Submitted", 25]
+			["In Process", 25],
+			["Approved", 35],
+			["Submitted", 45]
 		]
 	},
 	"preScribersGridDataSource": {

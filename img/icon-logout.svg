@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="45 39 22 22">
+  <defs>
+    <filter id="background" x="0" y="0" width="112" height="112" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-color="#222b45" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Icon_Logout" data-name="Icon/Logout" transform="translate(45 39)">
+    <g transform="matrix(1, 0, 0, 1, -45, -39)" filter="url(#background)">
+      <rect id="background-2" data-name="background" width="22" height="22" rx="11" transform="translate(45 39)" fill="#edf1f7" opacity="0"/>
+    </g>
+    <g id="Iconly_Two-tone_Logout" data-name="Iconly/Two-tone/Logout" transform="translate(3 3)">
+      <g id="Logout">
+        <path id="Stroke_1" data-name="Stroke 1" d="M10.92,4.119V3.287A3.287,3.287,0,0,0,7.634,0H3.286A3.287,3.287,0,0,0,0,3.287v9.927A3.287,3.287,0,0,0,3.286,16.5H7.643a3.278,3.278,0,0,0,3.278-3.277v-.841" fill="none" stroke="#001489" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Stroke_3" data-name="Stroke 3" d="M10.739.5H0" transform="translate(6.24 7.75)" fill="none" stroke="#001489" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+        <path id="Stroke_5" data-name="Stroke 5" d="M0,0,2.611,2.6,0,5.2" transform="translate(14.368 5.65)" fill="none" stroke="#001489" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+      </g>
+    </g>
+  </g>
+</svg>

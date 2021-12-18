@@ -1,0 +1,9 @@
+<svg id="Icon_Media" data-name="Icon/Media" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_2" data-name="Rectangle 2" width="24" height="24" fill="#fff" opacity="0"/>
+  <g id="Iconly_Two-tone_Video" data-name="Iconly/Two-tone/Video" transform="translate(3 5)">
+    <g id="Video" transform="translate(-0.75 -0.75)">
+      <path id="Stroke_3" data-name="Stroke 3" d="M0,3.582,4.1.228a1,1,0,0,1,1.637.777V7.877A1,1,0,0,1,4.1,8.654L0,5.3" transform="translate(14.016 3.194)" fill="none" stroke="#001489" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+      <path id="Stroke_1" data-name="Stroke 1" d="M13.266,10.37a3.272,3.272,0,0,1-3.53,3.4H3.519A3.265,3.265,0,0,1,0,10.37V3.41A3.275,3.275,0,0,1,3.53,0H9.736a3.28,3.28,0,0,1,3.53,3.41Z" transform="translate(0.75 0.75)" fill="none" stroke="#001489" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

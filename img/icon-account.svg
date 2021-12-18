@@ -1,0 +1,11 @@
+<svg id="Icon_Account" data-name="Icon/Account" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3" data-name="Rectangle 3" width="24" height="24" fill="#fff" opacity="0"/>
+  <g id="Iconly_Two-tone_Work" data-name="Iconly/Two-tone/Work" transform="translate(3 3)">
+    <g id="Work">
+      <path id="Stroke_1" data-name="Stroke 1" d="M0,0S.142,1.738.175,2.287a3.824,3.824,0,0,0,.8,2.127,2.969,2.969,0,0,0,2.51,1.1c1.237,0,10.235,0,11.472,0a2.969,2.969,0,0,0,2.51-1.1,3.833,3.833,0,0,0,.8-2.127C18.3,1.738,18.446,0,18.446,0" transform="translate(0.054 12.73)" fill="none" stroke="#001489" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M0,2.58V2.209A2.208,2.208,0,0,1,2.209,0H4.791A2.209,2.209,0,0,1,7,2.209V2.58" transform="translate(5.748)" fill="none" stroke="#001489" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Stroke_5" data-name="Stroke 5" d="M.5,1.294V0" transform="translate(8.748 12.637)" fill="none" stroke="#001489" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Stroke_7" data-name="Stroke 7" d="M0,3.059V6.527a16.332,16.332,0,0,0,6.74,2.5,2.581,2.581,0,0,1,4.986.01A16.33,16.33,0,0,0,18.5,6.527V3.059A3.051,3.051,0,0,0,15.437,0H3.068A3.06,3.06,0,0,0,0,3.059Z" transform="translate(0 2.581)" fill="none" stroke="#001489" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

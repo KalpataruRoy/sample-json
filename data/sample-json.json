@@ -18,7 +18,7 @@
 			["Delivered", 15],
 			["In Process", 20],
 			["Approved", 8],
-			["Submitted", 5]
+			["Submitted", 25]
 		]
 	},
 	"preScribersGridDataSource": {

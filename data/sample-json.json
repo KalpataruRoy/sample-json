@@ -15,10 +15,10 @@
 	"requestDetailsChartDataSource": {
 		"chartSeries": [
 			["Task", "Transaction"],
-			["Delivered", 11],
-			["In Process", 21],
-			["Approved", 31],
-			["Submitted", 41]
+			["Delivered", 12],
+			["In Process", 22],
+			["Approved", 32],
+			["Submitted", 42]
 		]
 	},
 	"preScribersGridDataSource": {

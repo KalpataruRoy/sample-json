@@ -15,7 +15,7 @@
 	"requestDetailsChartDataSource": {
 		"chartSeries": [
 			["Task", "Transaction"],
-			["Delivered", 11],
+			["Delivered", 15],
 			["In Process", 20],
 			["Approved", 8],
 			["Submitted", 5]
